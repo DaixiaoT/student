@@ -1,5 +1,7 @@
 package user;
 
 public class Student {
-lk
+    public static void main(String[] args) {
+
+    }
 }
